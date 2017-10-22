@@ -1,0 +1,1 @@
+enc -d -A -aes-256-cbc -base64 -K 19c3bcec5920d1a4a23ea49105b4f2f072dc3f21af2656e177b8035b11f98916 -iv c2bcabc6eac93d2e57189626fc85ded9 -in D:\kibi\test.txt
